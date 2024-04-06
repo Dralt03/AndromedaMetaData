@@ -4,12 +4,8 @@
     "image": "https://media.surrealismtoday.com/wp-content/uploads/2021/12/12164026/google-dream-starry-night-1024x811-1.jpg",
     "attributes": [
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
-        },
-        {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "Made On",
+            "value": "Gemni"
         }
     ]
 }
