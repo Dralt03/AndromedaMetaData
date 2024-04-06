@@ -4,12 +4,8 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2M98p1-sYggnKgtv2dYqCnYWJuZfzPFoziE9PgrCvlg&s",
     "attributes": [
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
-        },
-        {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "Made On",
+            "value": "DaVinci"
         }
     ]
 }
