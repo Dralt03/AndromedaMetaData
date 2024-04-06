@@ -1,0 +1,15 @@
+{
+    "name": "Starry Night",
+    "description": "An Ai generated visualization of the famous painting Starry Night by Van Gogh",
+    "image": "https://media.surrealismtoday.com/wp-content/uploads/2021/12/12164026/google-dream-starry-night-1024x811-1.jpg",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
