@@ -1,0 +1,11 @@
+{
+    "name": "FUND_NFT",
+    "description": "An app for crowdfunding directly from the local networks, no medeocre  involved. direct connection with user and company.",
+    "image": "https://img.freepik.com/free-vector/crowdfunding-application_23-2148627861.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1709683200&semt=sph",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Value"
+        }
+    ]
+}
